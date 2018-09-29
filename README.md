@@ -1,2 +1,3 @@
-# shopping-list @ traversy media 
-Building a shopping list to learn the MERN stack
+# shopping-list
+- following a tutorial from Traversy Media on youtube
+- Building a shopping list to learn the MERN stack
